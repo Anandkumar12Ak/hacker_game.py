@@ -1,0 +1,3 @@
+[LOGIN] User logged in successfully
+[LEVEL 1] Network scanned
+[LEVEL 2] ADVANCED firewall bypassed
